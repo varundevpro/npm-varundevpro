@@ -1,0 +1,29 @@
+{
+  "name": "varundevpro",
+  "version": "1.0.2",
+  "main": "index.js",
+  "scripts": {
+    "commit": "git-cz",
+    "test": "echo \"Error: no test specified\""
+  },
+  "keywords": [],
+  "author": "Varun A 🔥 <varun@utopian.dev>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/varundevpro/npm-varundevpro.git"
+  },
+  "bugs": {
+    "url": "https://github.com/varundevpro/npm-varundevpro/issues"
+  },
+  "homepage": "https://github.com/varundevpro/npm-varundevpro#readme",
+  "description": "me",
+  "devDependencies": {
+    "cz-conventional-changelog": "^3.0.2"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  }
+}
