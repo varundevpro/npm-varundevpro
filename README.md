@@ -1,5 +1,6 @@
 # varundevpro
 
+[![install size](https://packagephobia.now.sh/badge?p=varundevpro)](https://packagephobia.now.sh/result?p=varundevpro)
 [![version](https://img.shields.io/npm/v/varundevpro.svg?style=flat-square)](http://npm.im/varundevpro)
 [![downloads](https://img.shields.io/npm/dm/varundevpro.svg?style=flat-square)](http://npm-stat.com/charts.html?package=varundevpro)
 [![MIT License](https://img.shields.io/npm/l/varundevpro.svg?style=flat-square)](http://opensource.org/licenses/MIT)

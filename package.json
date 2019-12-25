@@ -1,7 +1,10 @@
 {
   "name": "varundevpro",
-  "version": "1.0.2",
-  "main": "index.js",
+  "version": "1.0.3",
+  "main": "./lib/index.js",
+  "files": [
+    "/lib"
+  ],
   "scripts": {
     "commit": "git-cz",
     "test": "echo \"Error: no test specified\""
